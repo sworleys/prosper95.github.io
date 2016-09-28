@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Intro!"
-date:   2016-09-26 16:06:30 -0400
+date:   2016-09-26 16:32:30 -0400
 categories: introduction
 ---
 
@@ -12,11 +12,11 @@ Also, please checkout my [resume!][resume]
 
 
 {% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
+def print_hello()
+  puts "Hello World"
 end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+print_hello()
+#=> prints 'Hello World' to STDOUT.
 {% endhighlight %}
 
 [resume]: http://www.ctrlaltdelicious.me/resume
