@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Intro!"
+date:   2016-09-26 16:06:30 -0400
+categories: introduction
+---
+
+Hey! This is going to be a site where I post my thoughts, ideas, projects, whatever.  Please stay tuned to see cool shit.
+
+
+Also, please checkout my [resume!][resume]
+
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+[resume]: http://www.ctrlaltdelicious.me/resume
+
