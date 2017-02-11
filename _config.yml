@@ -20,7 +20,7 @@ description: "Personal website... to be filled in"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.ctrlaltdelicious.me" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
-github_username:  prosper95
+github_username:  sworleys
 
 # Build settings
 markdown: kramdown
