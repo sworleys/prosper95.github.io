@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: Resume
-permalink: /resume/
+permalink: /resume
 ---
 
 **Download my resume as a [pdf]({{ site.url }}/assets/resume/resume.pdf)!**

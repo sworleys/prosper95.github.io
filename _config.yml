@@ -13,15 +13,23 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CtrlAltDelicious.me
-name: Stephen Worley
+title: CtrlAltDelicious
+author: Stephen Worley
 email: sworley1995@gmail.com
 description: "Personal website... to be filled in"
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.ctrlaltdelicious.me" # the base hostname & protocol for your site
-#twitter_username: jekyllrb
-github_username:  sworleys
 
 # Build settings
-markdown: kramdown
-theme: minima
+remote_theme: huangyz0918/moving
+#For building/testing locally
+#theme: moving
+plugins:
+  - jekyll-feed
+
+moving:
+  about_you: "About me"
+  date_format: "%b %d"
+  back_to: "Index"
+  social_links:
+    rss: RSS
+    github: sworleys
