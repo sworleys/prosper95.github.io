@@ -17,7 +17,7 @@ title: CtrlAltDelicious
 author: Stephen Worley
 email: sworley1995@gmail.com
 description: "---"
-url: "http://www.ctrlaltdelicious.me" # the base hostname & protocol for your site
+url: "http://www.ctrlaltdelicio.us" # the base hostname & protocol for your site
 
 # Build settings
 remote_theme: huangyz0918/moving
@@ -28,8 +28,9 @@ plugins:
 
 moving:
   about_you: "About me"
+  avatar_url: "https://avatars0.githubusercontent.com/u/7028984?s=460&v=4"
   date_format: "%b %d"
-  back_to: "Index"
+  back_to: "Posts"
   social_links:
     rss: RSS
     github: sworleys
