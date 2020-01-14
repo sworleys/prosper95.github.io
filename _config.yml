@@ -17,7 +17,7 @@ title: CtrlAltDelicious
 author: Stephen Worley
 email: sworley1995@gmail.com
 description: "---"
-url: "http://www.ctrlaltdelicio.us" # the base hostname & protocol for your site
+url: "https://www.ctrlaltdelicio.us" # the base hostname & protocol for your site
 
 # Build settings
 remote_theme: huangyz0918/moving
