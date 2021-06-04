@@ -13,7 +13,8 @@
             </li>
             {%- if site.email -%}
             <li>
-            <a class="u-email black-link" href="mailto:{{ site.email }}">{{ site.email }} </a></li>
+	      {{ site.email }}
+	    </li>
             {%- endif -%}
         </ul>
       </div>

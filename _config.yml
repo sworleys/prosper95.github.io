@@ -14,8 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: CtrlAltDelicious
-author: Stephen Worley
-email: sworley1995@gmail.com
+author: sworley
+name: Stephen Worley (sworley)
+email: sworley1995[AT]gmail.com
 description: "---"
 url: "http://www.ctrlaltdelicio.us" # the base hostname & protocol for your site
 
