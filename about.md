@@ -2,4 +2,5 @@
 layout: about
 ---
 
-[gpgkey] ({{ site.url }}/gpgkey)
+[resume]({{ site.url }}/resume)
+[gpgkey]({{ site.url }}/gpgkey)
