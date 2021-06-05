@@ -9,6 +9,3 @@ categories: introduction
 Hello World!
 
 
-...
-checkout my [resume]({{ site.url }}/resume)
-
