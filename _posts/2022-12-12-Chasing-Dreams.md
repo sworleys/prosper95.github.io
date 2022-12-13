@@ -21,8 +21,8 @@ and have kept dabling/reading up on state of the art for modern game engine arch
 since then.
 
 When I graduated, there were two things I wanted to do in my career:
-	- Work on FOSS for Linux and hopefully contribute to the kernel
-	- Work on a game engine
+ - Work on FOSS for Linux and hopefully contribute to the kernel
+ - Work on a game engine
 
 I went the first path the last 5yrs following that dream and had an incredible time. I loved
 working on linux networking and FRRouting. They are software systems that underpin
